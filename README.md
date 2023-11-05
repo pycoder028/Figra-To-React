@@ -1,2 +1,1 @@
-# Figra-To-React
-Beginner project :)
+# figma-to-react
